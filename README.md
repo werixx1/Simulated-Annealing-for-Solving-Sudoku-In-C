@@ -1,2 +1,6 @@
 # Simulated-Annealing-for-Solving-Sudoku-In-C
-why :(
+
+
+
+#### >helpful resources:
+- https://www.youtube.com/watch?v=FyyVbuLZav8
