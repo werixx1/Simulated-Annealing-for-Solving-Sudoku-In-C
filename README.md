@@ -9,6 +9,7 @@ execute: ```gcc main.c load_sudoku.c utils.c -o solve_sudoku``` then ```./solve_
 &nbsp; - https://www.youtube.com/watch?v=FyyVbuLZav8 \
 &nbsp; - (pl) [introduction to the topic](https://www.researchgate.net/profile/Stanislaw-Kowalik/publication/305489442_SYMULOWANE_WYZARZANIE_W_ZASTOSOWANIU_DO_WYZNACZANIA_EKSTREMUM_GLOBALNEGO_FUNKCJI_O_WIELU_EKSTREMACH_LOKALNYCH_DALEKO_ODDALONYCH_OD_SIEBIE_LUB_BARDZO_ZAGESZCZONYCH/links/579103b108ae0831552f9468/SYMULOWANE-WYZARZANIE-W-ZASTOSOWANIU-DO-WYZNACZANIA-EKSTREMUM-GLOBALNEGO-FUNKCJI-O-WIELU-EKSTREMACH-LOKALNYCH-DALEKO-ODDALONYCH-OD-SIEBIE-LUB-BARDZO-ZAGESZCZONYCH.pdf) \
 &nbsp; - https://www.geeksforgeeks.org/what-is-simulated-annealing/ \
-&nbsp; - https://www.baeldung.com/cs/simulated-annealing
+&nbsp; - https://www.baeldung.com/cs/simulated-annealing \
+&nbsp; - [stackoverflow](https://stackoverflow.com/questions/61553524/simulated-annealing-for-sudoku-solving)
 
 
